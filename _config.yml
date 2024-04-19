@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "uno1.png"
   name             : "Chengmeng Zhang"
-  pronouns         : # example: "he/him"  
-  bio              : "Ph.D Cand.，PKU/ VSR, Ox & UCL"
+  pronouns         : "he/him" # example: "he/him"  
+  bio              : "Ph.D Cand.，PKU/ VSR, OX & UCL"
   location         : "UK/CN"
   employer         : "Peking University"
   uri              : # URL
