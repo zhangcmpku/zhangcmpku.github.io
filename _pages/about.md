@@ -1,49 +1,24 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chengmeng's personal websites——Free thoughts always represent the future"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Chengmeng Zhang is currently as an Academic Visitor at the Oxford Institute of Population Ageing (University of Oxford), from October 2023 to June 2024, and also visiting students at the Universtiy Colleage London（UCL）, from the May 2024 to June 2024. He is a doctoral candidate of Demography at PKU, where he is the recipient of the Weiming-Fellow Dr. Scholarship in the field of Carbon and Climate. Chengmeng is also actively involved in several academic capacities, as a youth editorial member of the Journal of Intelligent Society (in Chinese), article editor (AE) of SAGE Open, and holds membership in renowned academic organizations such as IEEE. He is also an invited member of several thematic Discussion Groups on the United Nations Volunteers (UNV) Knowledge Portal. He is also a member of the IEEE 7802 standards working group, he holds multiple patents as a co-author.
 
-A data-driven personal website
+Chengmeng's primary research focus encompasses the domains of climate demography, including the study of carbon behavior and the implications of climate change. His interests also extend to population-resource-environment dynamics, voluntary public welfare initiatives, and the realm of intelligent social governance. He has demonstrated his expertise by publishing research in various Chinese and international peer-review academic journals, including contributions to Lancet Global Health（IF=34.3, 2022）, Frontiers in Environmental Science（IF=4.6, 2022）, JAPAIJERPH（IF=4.6, 2021）, Journal of Aging and Physical Activity（IF=1.5, 2022）, IEEE Transactions on Technology and Society（IEEE Trans., Engineer Village Indexed）, and Disability Research （in Chinese） and Ecological Economy （in Chinese）, and has been presented at conferences like IJCAI 2022 and ISID2022. His book reviews have also been conditionally accepted by the well-known journal-China Information.
+
+Chengmeng has shared his insights through a series of perspective articles published in prominent Chinese media outlets, including China Population Daily and China Workers Daily. One of his articles was republished in its entirety by Guangming Daily Website（光明网）, a highly influential platform for ideological and theoretical discussions in China. Chengmeng's contributions extend beyond the written word, as he has been actively engaged with China Youth Daily, where he serves as a youth research representative focusing on carbon and climate issues. He also appears as a commentator on China Youth Learning, offering valuable comments and opinions.
+
+Chengmeng's academic achievements and dedication to his studies have earned him numerous accolades, including the China National Scholarship , which he has received three times—during his bachelor's, master's, and doctoral studies. He holds the honorary title of Beijing's Merit Students and has been recognized as a Merit Student at Peking University. Additionally, Chengmeng has obtained peer review class certification from Nature Press and has completed the Sustainable Development online course from Stanford.
+
+Beyond his academic pursuits, Chengmeng is actively involved in community development and capacity building. He has been invited to provide training sessions for local governance officers and community volunteers in both Shichahai Street in Beijing and other districts（communities）, NGOs. His commitment to both academic research and community engagement reflects his multifaceted approach to creating a positive impact on society. 
+
+Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+His interests mainly focus on the fields of climate sociology (climate demography), aging research in smart societies, and philanthropy. These fields may seem diverse, but in fact the overlapping content is very concentrated.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
