@@ -23,4 +23,13 @@ Interest
 ======
 His interests mainly focus on the fields of climate sociology (climate demography), aging research in smart societies, and philanthropy. These fields may seem diverse, but in fact the overlapping content is very concentrated.
 
-
+Award 
+======
+1. June 2023: Peking University Youth Innovation Challenge Grand Prize（Best Level）, awarded by Peking University
+2. April 2023: Meritorious Student of Beijing, awarded by the Beijing Municipal Education Commission, Beijing Youth League Committee, etc.
+3. December 2022: National Scholarship, awarded by the Ministry of Education of China
+4. December 2022: Meritorious Student of Peking University, awarded by Peking University
+5. November 2022: PKU-BHP Billiton “Weiming Fellow Scholarship on Carbon and Climate" at Peking University, awarded by Peking University
+6. December 2019: National Scholarship, awarded by the Ministry of Education of China
+7. December 2016: National Scholarship, awarded by the Ministry of Education of China
+8. March 2015: Chinese Student Self-Improvement Star （Nomination Award）, awarded by the Central Committee of the Communist Youth League and the China National Students Union
