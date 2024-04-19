@@ -12,7 +12,7 @@ title                    : "Chengmeng Zhang / Zhang,C"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangcmpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangcmpku.github.io"
 
@@ -21,7 +21,7 @@ repository               : "zhangcmpku.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "uno1.png"
   name             : "Chengmeng Zhang"
   pronouns         : # example: "he/him"  
   bio              : "Ph.D Cand.，PKU/ VSR, Ox & UCL"
