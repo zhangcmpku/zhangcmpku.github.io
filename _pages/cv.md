@@ -15,7 +15,7 @@ Education
 * M.S. in Administration Management, Shenzhen University, 2020
 * B.S. in Sociology, Chengdu University of Technology, 2017
 
-Work experience
+Project Engagement experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
