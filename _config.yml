@@ -12,7 +12,7 @@ title                    : "Chengmeng Zhang / Zhang,C"
 title_separator          : "-"
 name                     : &name "Zhang, C"
 description              : &description "personal description"
-url                      : zhangcmpku # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zhangcmpku.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangcmpku"
 
