@@ -36,3 +36,7 @@ Award
 6. December 2019: National Scholarship, awarded by the Ministry of Education of China
 7. December 2016: National Scholarship, awarded by the Ministry of Education of China
 8. March 2015: Chinese Student Self-Improvement Star （Nomination Award）, awarded by the Central Committee of the Communist Youth League and the China National Students Union
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<span id="busuanzi_value_page_pv">本文总阅读量<i class="fa fa-spinner fa-spin"></i>次</span>
