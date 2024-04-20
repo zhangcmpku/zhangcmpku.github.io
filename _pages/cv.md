@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Demography, Peking University, 2025 (expected)
+* Ph.D in Demography, Peking University, 2025 （expected）
 * M.S. in Administration Management, Shenzhen University, 2020
 * B.S. in Sociology, Chengdu University of Technology, 2017
+
+Internation acdemic exchange experience
+======
+* VSR （Visiting student researcher or visiting student）， University of Oxford, Nov. 2023 - June 2024
+* VSR （Visiting student researcher or visiting student）， University of Oxford, May. 2024 - June 2024
+* Participant, Winds of Change, New Zealand, July. 2023 - Dec. 2023
+* Participant, APRU Climate Health Global Simulate Class, March. 2023 - June 2023
 
 Project Engagement experience
 ======
