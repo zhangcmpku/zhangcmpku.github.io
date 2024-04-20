@@ -18,8 +18,8 @@ Education
 Internation acdemic exchange experience
 ======
 * VSR （Visiting student researcher or visiting student），
-University of Oxford, Nov. 2023 - June 2024
-University Colleage London, May. 2024 - June 2024
+  * University of Oxford, Nov. 2023 - June 2024
+  * University Colleage London, May. 2024 - June 2024
 * Participant, Winds of Change, New Zealand, July. 2023 - Dec. 2023
 * Participant, APRU Climate Health Global Simulate Class, March. 2023 - June 2023
 
