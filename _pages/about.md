@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Chengmeng's personal websites
-——Free thoughts always lead the future"
+   
+   ——Free thoughts always lead the future"
 author_profile: true
 redirect_from: 
   - /about/
