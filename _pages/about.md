@@ -50,6 +50,6 @@ Professional Qualification and Academic Service
 
 Visitor Statistic 
 ======
-本站总访问量Total page views （PV）<span id="busuanzi_value_site_pv"></span>次
-本站访客数Total unique visitors （UV）<span id="busuanzi_value_site_uv"></span>人次
-本文总阅读量Total article reads:<span id="busuanzi_value_page_pv"></span>次
+* 本站总访问量Total page views （PV）<span id="busuanzi_value_site_pv"></span>次
+* 本站访客数Total unique visitors （UV）<span id="busuanzi_value_site_uv"></span>人次
+* 本文总阅读量Total article reads:<span id="busuanzi_value_page_pv"></span>次
