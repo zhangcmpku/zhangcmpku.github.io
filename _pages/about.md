@@ -39,12 +39,12 @@ Award
 
 Professional Qualification and Academic Service
 ======
-*Invited Discussion Group Member of State of the World’s Volunteerism Report, Knowledge Portal of United Nations Volunteer （UNV） 
-*Article Editor of Sage Open (JCR-Q2)
-*Youth Editorial Member Board of the Journal of Intelligent Society (in Chinese)
-*Reviewer of IEEE Transactions on Technology and Society
-*Reviewer of Business Ethics, the Environment & Responsibility, 
-*Sustainable Movers (grassroots movement of youth volunteers) of United Nations Development Programme (UNDP)
+* Invited Discussion Group Member of State of the World’s Volunteerism Report, Knowledge Portal of United Nations Volunteer （UNV） 
+* Article Editor of Sage Open (JCR-Q2)
+* Youth Editorial Member Board of the Journal of Intelligent Society (in Chinese)
+* Reviewer of IEEE Transactions on Technology and Society
+* Reviewer of Business Ethics, the Environment & Responsibility, 
+* Sustainable Movers (grassroots movement of youth volunteers) of United Nations Development Programme (UNDP)
 
 
 
