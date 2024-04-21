@@ -21,7 +21,7 @@ repository               : "zhangcmpku"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "uno1.png"
+  avatar           : #"uno1.png"
   name             : "Chengmeng Zhang"
   pronouns         : "he/him" # example: "he/him"  
   bio              : "Ph.D Cand.，PKU/ VSR, OX & UCL"
