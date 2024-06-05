@@ -25,29 +25,29 @@ Internation acdemic exchange experience
 
 Project Engagement experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Core Coordinator (PKU-UCL Strategic Partnership Fund – Ageing and Wellbeing Research Project)
+  * UCL and Peking University 
+  * Duties includes: Project management, communication and coordination of academic visits, data translation and analysis into Chinese.
+  * Supervisor: Prof. Gong Chen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: Research Assistant (the Major Key Project of China National Social Science Fund- Time banking and mutual aid system for older adults ) 
+  * Office of China National Social Science Fund 
+  * Duties includes: deeply involved in project design, project management, theoretical organization, and completion of theoretical articles.
+  * Supervisor: Prof. Gong Chen
+
+* Spring 2021: Research Assistant (the Major Key Project of China National Social Science Fund - older adults care service system with Chinese characteristic) 
+  * Office of China National Social Science Fund 
+  * Duties includes: project management, organized research covering more than 100 time bank institutions, completed articles discussing time banking as a public welfare technology
+  * Supervisor: Prof. Gong Chen
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative Research
+* Quantitative Research2
+  * Regression (Stata/R/Py)
+  * Sem (AMOS)
+* Geospatial(ArcGis/Py）
 
 Publications
 ======
