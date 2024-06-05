@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Gerontechnology and silver economy (2021 fall)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Course"
+permalink: /teaching/2021-fall-teaching-1
+venue: "Peking University"
+date: 2021-09-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+responsibilities include organizing and facilitating various educational activities. These tasks are designed to enhance the learning experience and ensure the smooth operation of the course. Key duties involve.
 
-Heading 1
+Preparing and delivering instructional materials
 ======
+ to complement the main lectures, which may include handouts, multimedia presentations, and other educational resources.
 
-Heading 2
+Leading discussion sessions
 ======
+to encourage active learning and engagement among students, fostering a deeper understanding of course content.
 
-Heading 3
+Assisting with the development and grading of assignments and exams
 ======
+providing timely feedback to students to aid their academic progress.
