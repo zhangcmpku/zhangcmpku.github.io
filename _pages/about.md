@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Chengmeng Zhang is currently as an Academic Visitor at the Oxford Institute of Population Ageing (University of Oxford), from October 2023 to June 2024, and also a visiting student at the Universtiy Colleage London（UCL）, from the May 2024 to June 2024. 
+Chengmeng Zhang is currently as an Academic Visitor at the Oxford Institute of Population Ageing (University of Oxford), from October 2023 to June 2024, and also a visiting research associate staff at the Universtiy Colleage London（UCL）, from the May 2024 to June 2024. 
 
-He is a doctoral candidate of Demography at PKU, where he is the recipient of the Weiming-Fellow Dr. Scholarship in the field of Carbon and Climate. Chengmeng is also actively involved in several academic capacities, as a youth editorial member of the Journal of Intelligent Society (in Chinese), article editor (AE) of SAGE Open, and holds membership in renowned academic organizations such as IEEE. He is also an invited member of several thematic Discussion Groups on the United Nations Volunteers (UNV) Knowledge Portal. He is also a member of the IEEE 7802 standards working group, he holds multiple patents as a co-author.
+He is a doctoral candidate of Demography at PKU, where he is the recipient of the Weiming-Fellow Ph.D Scholarship in the field of Carbon and Climate. Chengmeng is also actively involved in several academic capacities, as a youth editorial member of the Journal of Intelligent Society (in Chinese), article editor (AE) of SAGE Open, and holds membership in renowned academic organizations such as IEEE. He is also an invited member of several thematic Discussion Groups on the United Nations Volunteers (UNV) Knowledge Portal. He is also a member of the IEEE 7802 standards working group, he holds multiple patents as a co-author.
 
   
  " I am very funtunate to be supervised by Prof. Gong Chen （PKU）, Prof. Jilei Wu （PKU）, Prof Sarah Harper （Oxford）. These professors are among the best scholars in the world. Their advice is not only useful for my academic work, but also makes me  morally noble.                                      —— Zhang, C."
