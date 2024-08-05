@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5a9ba5e2-0e62-47a4-9e2b-eb0203ebfbf6)![image](https://github.com/user-attachments/assets/ef78ae8c-e314-4b41-a9fb-a2b995bbded8)---
 permalink: /
 title: "Free thoughts always lead the future"
 author_profile: true
@@ -40,11 +40,19 @@ Award
 Professional Qualification and Academic Service
 ======
 * Invited Discussion Group Member of State of the World’s Volunteerism Report, Knowledge Portal of United Nations Volunteer （UNV） 
-* Article Editor of Sage Open (JCR-Q2)
+* Article Editor of Sage Open (JCR-Q1)
 * Youth Editorial Member Board of the Journal of Intelligent Society (in Chinese)
 * Reviewer of IEEE Transactions on Technology and Society
 * Reviewer of Business Ethics, the Environment & Responsibility, 
 * Sustainable Movers (grassroots movement of youth volunteers) of United Nations Development Programme (UNDP)
+
+中文简介
+======
+张承蒙，北京大学人口学博士生（于2023年10月-2024年6月赴牛津大学国家公派联合培养），伦敦大学学院UCL纵向研究中心客座研究员（Visiting Research Associate Staff，2024年5月-6月），北京大学首批碳与气候“未名学者”博士生奖学金得主，主要研究方向为气候人口学、人口-资源-环境、志愿公益、智能社会治理等，在the Lancet Global Health、Environment Politics、Aging and Disease、Sustainability：Science, Practice and Policy、China Information、Frontiers in Environmental Science、IEEE Transactions on Technology and Society、《人口与发展》《残疾人研究》《生态经济》、IJCAI 2022、ISID2022等期刊和会议发表/汇报原创论文和观点文章10余篇，作为章节作者参编著作3部（均由社会科学文献出版社出版），在《中国人口报》《中国工人网》发表理论文章/观点性文章多篇，其中有1篇关于双碳研究的观点性文章被《光明网》（理论版）全文转载。
+
+受邀担任《智能社会研究》青年编委，《Sage Open》（JCR-Q1）文章编辑（Article Editor），联合国志愿人员组织（United Nations Volunteer，UNV）志愿服务知识门户专题讨论组成员，入选UNDP联合国开发计划署“中国Movers可持续发展培训师人才推广计划”，PKU-UCL国际战略合作基金“气候变化与可持续发展”人口老龄化专项项目协调员，BEER、IEEE.TTS等国际英文学术期刊审稿人。参与养老服务相关的国家社科基金重大项目、国家社科基金重点项目及其它省部级项目多项。申请专利5项（其中已授权发明专利1项、实用新型专利2项），软件著作权3项。参与撰写的2项政策建议被采纳，多个志愿服务的观点被UNV予以认可和采纳，1项建议获得北京市民政局专题肯定性答复。
+
+获国家奖学金3次（本、硕、博各1次）、北京市三好学生、北京大学三好学生标兵等荣誉称号，获得北京大学挑战杯“特等奖”。曾作为高校教学科研院系代表受邀参加UNV联合国志愿人员组织区域专题磋商会议。于2022年4月就“社科研究方法学习经验”接受国际知名学术出版社SAGE Publications专访。曾多次受《中国青年报·中国青年网》邀请，作为碳与气候研究的青年代表发表研究感悟，并作为“青年大学习·大思政课”嘉宾与谈人发表评论和观点。
 
 
 
