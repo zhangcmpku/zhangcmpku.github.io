@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a9ba5e2-0e62-47a4-9e2b-eb0203ebfbf6)![image](https://github.com/user-attachments/assets/ef78ae8c-e314-4b41-a9fb-a2b995bbded8)---
+---
 permalink: /
 title: "Free thoughts always lead the future"
 author_profile: true
