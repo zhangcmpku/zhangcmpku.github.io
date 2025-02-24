@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Demography, Peking University, 2025 （expected）
-* M.S. in Administration Management, Shenzhen University, 2020
+* M.S. in Administration Management, Shenzhen University, 2020 （Postgraduate recommendation， without admission exam）
 * B.S. in Sociology, Chengdu University of Technology, 2017
 
 Internation acdemic exchange experience
