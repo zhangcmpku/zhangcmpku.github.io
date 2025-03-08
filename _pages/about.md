@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 （滑动至下面有中文简介，供快速了解）
+
 Chengmeng Zhang is currently as an Academic Visitor at the Oxford Institute of Population Ageing (University of Oxford), from October 2023 to June 2024, and also a visiting research associate staff at the Universtiy Colleage London（UCL）, from the May 2024 to June 2024. 
 
 He is a doctoral candidate of Demography at PKU, where he is the recipient of the Weiming-Fellow Ph.D Scholarship in the field of Carbon and Climate. Chengmeng is also actively involved in several academic capacities, as a youth editorial member of the Journal of Intelligent Society (in Chinese), article editor (AE) of SAGE Open, and holds membership in renowned academic organizations such as IEEE. He is also an invited member of several thematic Discussion Groups on the United Nations Volunteers (UNV) Knowledge Portal. He is also a member of the IEEE 7802 standards working group, he holds multiple patents as a co-author.
